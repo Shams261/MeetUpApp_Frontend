@@ -377,5 +377,5 @@ This project is licensed under the MIT License.
 ---
 
 <p align="center">
-  Made with ❤️ for neogCamp
+  Made with ❤️ for Community
 </p>
